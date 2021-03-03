@@ -31,11 +31,11 @@ You can also see the experiments result in the notebook:
 
 2. Active learning comparison:
 
-<img src="active learning.png" width="80%" height="80%">
+<img src="active learning.png" width="120%" height="80%">
 
 3. Core-set selection comparison:
 
-<img src="core-set selection.png" width="80%" height="80%">
+<img src="core-set selection.png" width="120%" height="80%">
 
 4. Efficiency comparison:
 
