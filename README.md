@@ -18,7 +18,7 @@ To train the model(s) in the paper:
 
 >run the python file GRAIN(ball-D).py or GRAIN(NN-D).py
 
-You can also see the experiments result in the notebook:
+You can also see the experiment results in the notebook:
 > cd the  “example” directory
 
 >run the notebook file Test.ipynb
