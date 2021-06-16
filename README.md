@@ -49,7 +49,7 @@ To train the model(s) in the paper:
 
 7. Ablation study:
 
-<img src="ablation.png" width="80%" height="80%">
+<img src="abla.png" width="80%" height="80%">
 
 8. Generalization:
 
