@@ -54,3 +54,21 @@ To train the model(s) in the paper:
 8. Generalization:
 
 <img src="generalization.png" width="80%" height="80%">
+
+## Cite
+
+If you use GAMLP in a scientific publication, we would appreciate citations to the following paper:
+```
+@article{zhang2021grain,
+  title={GRAIN: improving data efficiency of gra ph neural networks via diversified in fluence maximization},
+  author={Zhang, Wentao and Yang, Zhi and Wang, Yexin and Shen, Yu and Li, Yang and Wang, Liang and Cui, Bin},
+  journal={Proceedings of the VLDB Endowment},
+  volume={14},
+  number={11},
+  pages={2473--2482},
+  year={2021},
+  publisher={VLDB Endowment}
+}
+```
+
+
