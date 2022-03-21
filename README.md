@@ -57,7 +57,7 @@ To train the model(s) in the paper:
 
 ## Cite
 
-If you use GAMLP in a scientific publication, we would appreciate citations to the following paper:
+If you use Grain in a scientific publication, we would appreciate citations to the following paper:
 ```
 @article{zhang2021grain,
   title={GRAIN: improving data efficiency of gra ph neural networks via diversified in fluence maximization},
